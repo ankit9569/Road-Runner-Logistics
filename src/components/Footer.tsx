@@ -112,7 +112,7 @@ export default function Footer() {
               </li>
               <li className="flex items-center space-x-3">
                 <Mail className="w-5 h-5 text-blue-400 flex-shrink-0" />
-                <a href="mailto:info@roadrunnerlogistic.com" className="text-gray-400 hover:text-blue-400 transition-colors duration-200 text-sm">
+                <a href="mailto:info@mtcclogistics.com" className="text-gray-400 hover:text-blue-400 transition-colors duration-200 text-sm">
                   info@mtcclogistics.com
                 </a>
               </li>
