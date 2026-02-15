@@ -47,7 +47,7 @@ export default function Contact() {
       icon: Phone,
       title: 'Phone',
       content: '+91 9971531604',
-      link: 'tel:+919971531604'
+      link: 'tel:+91 9971531604'
     },
     {
       icon: Mail,
@@ -282,7 +282,7 @@ export default function Contact() {
                 Our customer support team is available 24/7 to help you with any urgent requirements.
               </p>
               <a
-                href="tel:+919876543210"
+                href="tel:+919971531604"
                 className="inline-block bg-blue-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-blue-700 transition-colors duration-200"
               >
                 Call Now: +91 9971531604
