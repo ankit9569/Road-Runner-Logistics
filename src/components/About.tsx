@@ -38,7 +38,7 @@ export default function About() {
               Your Trusted Partner in Logistics Excellence
             </h2>
             <p className="text-lg text-gray-600 leading-relaxed mb-6">
-              Road Runner Logistic has been at the forefront of India's transportation and logistics industry,
+              MTCC (Mishra Transport Cargo & Carriers) Logistic has been at the forefront of India's transportation and logistics industry,
               delivering exceptional service to businesses across the nation. With a modern fleet and
               experienced team, we ensure your cargo reaches its destination safely and on time.
             </p>
@@ -47,7 +47,7 @@ export default function About() {
               us a preferred logistics partner for companies of all sizes. From small businesses to large
               enterprises, we provide customized solutions that drive success.
             </p>
-            <div className="flex items-center space-x-8 pt-4">
+            {/* <div className="flex items-center space-x-8 pt-4">
               <div>
                 <div className="text-3xl font-bold text-blue-600">15+</div>
                 <div className="text-sm text-gray-600">Years Experience</div>
@@ -60,7 +60,7 @@ export default function About() {
                 <div className="text-3xl font-bold text-blue-600">24/7</div>
                 <div className="text-sm text-gray-600">Support</div>
               </div>
-            </div>
+            </div> */}
           </div>
 
           <div className="relative">

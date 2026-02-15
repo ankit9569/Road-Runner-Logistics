@@ -39,7 +39,7 @@ export default function Hero() {
             </h1>
 
             <p className="text-lg text-gray-600 leading-relaxed">
-              Experience seamless freight movement across India with Road Runner Logistic.
+              Experience seamless freight movement across India with MTCC (Mishra Transport Cargo & Carriers) Logistic.
               We deliver excellence through timely service, modern fleet, and unwavering commitment to your business success.
             </p>
 
@@ -72,7 +72,7 @@ export default function Hero() {
                 Our Services
               </button>
             </div>
-
+{/* 
             <div className="grid grid-cols-3 gap-6 pt-4">
               <div className="text-center">
                 <div className="text-3xl font-bold text-gray-900">500+</div>
@@ -86,7 +86,7 @@ export default function Hero() {
                 <div className="text-3xl font-bold text-gray-900">25+</div>
                 <div className="text-sm text-gray-600 mt-1">Cities Covered</div>
               </div>
-            </div>
+            </div> */}
           </div>
 
           <div className="relative lg:h-[600px] hidden lg:block">

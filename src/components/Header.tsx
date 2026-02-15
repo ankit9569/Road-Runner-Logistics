@@ -57,7 +57,7 @@ export default function Header({ activeSection, setActiveSection }: HeaderProps)
               <Truck className="w-8 h-8 text-white" />
             </div>
             <div>
-              <h1 className="text-2xl font-bold text-gray-900">Road Runner Logistics</h1>
+              <h1 className="text-2xl font-bold text-gray-900">MTCC Logistics</h1>
               <p className="text-xs text-gray-600">Delivering Speed. Ensuring Trust.</p>
             </div>
           </div>

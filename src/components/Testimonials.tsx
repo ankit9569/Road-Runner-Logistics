@@ -6,7 +6,7 @@ export default function Testimonials() {
       name: 'Rajesh Kumar',
       company: 'Kumar Electronics',
       role: 'Managing Director',
-      content: 'Road Runner Logistic has been our trusted partner for over 3 years. Their reliability and professionalism are unmatched. Every shipment reaches on time, and their team is always responsive.',
+      content: 'MTCC Logistic has been our trusted partner for over 3 years. Their reliability and professionalism are unmatched. Every shipment reaches on time, and their team is always responsive.',
       rating: 5
     },
     {
@@ -20,7 +20,7 @@ export default function Testimonials() {
       name: 'Anil Patel',
       company: 'Patel Industries',
       role: 'CEO',
-      content: 'From small parcels to bulk cargo, Road Runner Logistic handles everything with care. Their warehouse facilities and inventory management are excellent. Great value for money!',
+      content: 'From small parcels to bulk cargo, MTCC Logistic handles everything with care. Their warehouse facilities and inventory management are excellent. Great value for money!',
       rating: 5
     },
     {
@@ -34,14 +34,14 @@ export default function Testimonials() {
       name: 'Vikram Singh',
       company: 'BuildRight Construction',
       role: 'Project Manager',
-      content: 'Heavy machinery and construction materials require special handling. Road Runner Logistic team does it perfectly every time. Their fleet is well-maintained and drivers are skilled.',
+      content: 'Heavy machinery and construction materials require special handling. MTCC Logistic team does it perfectly every time. Their fleet is well-maintained and drivers are skilled.',
       rating: 5
     },
     {
       name: 'Meera Reddy',
       company: 'MedCare Pharmaceuticals',
       role: 'Distribution Head',
-      content: 'Timely delivery is critical for us, and Road Runner Logistic never disappoints. Their 24/7 customer support and professional approach make all the difference. Five stars!',
+      content: 'Timely delivery is critical for us, and MTCC Logistic never disappoints. Their 24/7 customer support and professional approach make all the difference. Five stars!',
       rating: 5
     }
   ];

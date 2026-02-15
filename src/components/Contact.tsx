@@ -46,14 +46,14 @@ export default function Contact() {
     {
       icon: Phone,
       title: 'Phone',
-      content: '+91 98765 43210',
-      link: 'tel:+919876543210'
+      content: '+91 9971531604',
+      link: 'tel:+919971531604'
     },
     {
       icon: Mail,
       title: 'Email',
-      content: 'info@roadrunnerlogistic.com',
-      link: 'mailto:info@roadrunnerlogistic.com'
+      content: 'info@mtcclogistics.com',
+      link: 'mailto:info@mtcclogistics.com'
     },
     {
       icon: MapPin,
@@ -285,7 +285,7 @@ export default function Contact() {
                 href="tel:+919876543210"
                 className="inline-block bg-blue-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-blue-700 transition-colors duration-200"
               >
-                Call Now: +91 98765 43210
+                Call Now: +91 9971531604
               </a>
             </div>
           </div>

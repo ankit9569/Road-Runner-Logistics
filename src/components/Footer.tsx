@@ -40,7 +40,7 @@ export default function Footer() {
                 <Truck className="w-6 h-6 text-white" />
               </div>
               <div>
-                <h3 className="text-xl font-bold">Road Runner Logistics</h3>
+                <h3 className="text-xl font-bold">MTCC Logistics</h3>
                 <p className="text-xs text-gray-400">Delivering Speed,Ensuring Trust.</p>
               </div>
             </div>
@@ -106,14 +106,14 @@ export default function Footer() {
               </li>
               <li className="flex items-center space-x-3">
                 <Phone className="w-5 h-5 text-blue-400 flex-shrink-0" />
-                <a href="tel:+919876543210" className="text-gray-400 hover:text-blue-400 transition-colors duration-200 text-sm">
-                  +91 98765 43210
+                <a href="tel:+919971531604" className="text-gray-400 hover:text-blue-400 transition-colors duration-200 text-sm">
+                  +91 9971531604
                 </a>
               </li>
               <li className="flex items-center space-x-3">
                 <Mail className="w-5 h-5 text-blue-400 flex-shrink-0" />
                 <a href="mailto:info@roadrunnerlogistic.com" className="text-gray-400 hover:text-blue-400 transition-colors duration-200 text-sm">
-                  info@roadrunnerlogistic.com
+                  info@mtcclogistics.com
                 </a>
               </li>
             </ul>
@@ -123,7 +123,7 @@ export default function Footer() {
         <div className="border-t border-gray-800 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <p className="text-gray-400 text-sm">
-              &copy; 2024 Road Runner Logistic. All rights reserved.
+              &copy; 2024 MTCC Logistic. All rights reserved.
             </p>
             <div className="flex space-x-6">
               <a href="#" className="text-gray-400 hover:text-blue-400 transition-colors duration-200 text-sm">
